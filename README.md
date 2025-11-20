@@ -10,6 +10,7 @@ The notebook includes data preprocessing, visualization, model building, and eva
 ├── README.md                    # Project documentation
 └── /data (optional)             # Dataset if provided
 
+
 🎯 Objective
 
 To apply K-Means Clustering on a dataset.
