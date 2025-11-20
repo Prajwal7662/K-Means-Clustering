@@ -5,8 +5,11 @@ This project demonstrates K-Means Clustering, one of the most popular unsupervis
 The notebook includes data preprocessing, visualization, model building, and evaluation steps to understand customer/data segmentation.
 
 📂 Project Structure
+
 ├── K_Means_Clustering.ipynb     # Main Jupyter Notebook
+
 ├── README.md                    # Project documentation
+
 └── /data (optional)             # Dataset if provided
 
 🎯 Objective
