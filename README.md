@@ -1,6 +1,5 @@
 
 K-Means Clustering – Project 
-
 📌 Overview
 
 This project demonstrates K-Means Clustering, one of the most popular unsupervised machine learning algorithms used for grouping data based on similarity.
